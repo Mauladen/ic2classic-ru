@@ -335,7 +335,7 @@
 "gui.ic2.reactor_planner.produced.steam": "Производится пар: %s мБ",
 "gui.ic2.reactor_planner.production.eu": "Активно: %s EU/t",
 "gui.ic2.reactor_planner.production.steam": "Производство пара: %s мБ/т",
-"gui.ic2.reactor_planner.settings": "Вкладка "Настройки",
+"gui.ic2.reactor_planner.settings": "Вкладка Настройки",
 "gui.ic2.reactor_planner.settings.heat": "Начальный заезд: ",
 "gui.ic2.reactor_planner.settings.name": "Имя установки: ",
 "gui.ic2.reactor_planner.settings.sim": "Пользовательское время моделирования: ",
