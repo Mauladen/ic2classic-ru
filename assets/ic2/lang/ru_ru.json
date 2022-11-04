@@ -670,7 +670,7 @@
 "subitem.ic2.beer_time_brew": "Сварить",
 "subitem.ic2.beer_time_dragonblood": "Драконья кровь",
 "subitem.ic2.beer_time_youngster": "Юноша",
-"tooltip.ic2.alt.name": "Альт",
+"tooltip.ic2.alt.name": "Atl",
 "tooltip.ic2.block_click": "Нажмите на блок",
 "tooltip.ic2.block_left_click": "Клик левой кнопкой мыши по блоку",
 "tooltip.ic2.crops.breed_only.name": "Должен быть гибрид",
@@ -694,7 +694,7 @@
 "tooltip.ic2.wiki.bookmark.cancel": "Отмена",
 "tooltip.ic2.wiki.bookmark.color": "Цвет: ",
 "tooltip.ic2.wiki.bookmark.confirm": "Подтвердить",
-"tooltip.ic2.wiki.bookmark.main": "Главная страница",
+"tooltip.ic2.wiki.bookmark.main": "На главную",
 "tooltip.ic2.wiki.bookmark.name": "Имя: ",
 "tooltip.ic2.wiki.bookmark.new": "Новая закладка",
 "tooltip.ic2.wiki.bookmark.read": "Подробнее"
